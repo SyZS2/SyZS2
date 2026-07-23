@@ -1,10 +1,10 @@
-# Olá, eu sou o Diego Xavier 👋
+# Olá, eu sou o Diego Xavier 
 
 Estudante de Sistemas de Informação na **UNIFEF** e Técnico em Informática formado pela **ETEC**. Utilizo este espaço para documentar minha evolução na área de tecnologia, organizar meus códigos e compartilhar projetos práticos.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 - **Linguagens:** Java, C, Delphi
 - **Web Frontend:** HTML5, CSS3
 - **Bancos de Dados:** MySQL, PostgreSQL
@@ -12,12 +12,12 @@ Estudante de Sistemas de Informação na **UNIFEF** e Técnico em Informática f
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 - **Sistema de Gerenciamento de Estacionamento:** Projeto desenvolvido integrando hardware (Arduino + sensores ultrassônicos) e software (Delphi via ComPort) para monitoramento de vagas em tempo real.
 
 ---
 
-## 📬 Contato / Contact
+##  Contato / Contact
 - **Email:** syzcontato@gmail.com
 - **LinkedIn:** [in/diegoxbs932](https://linkedin.com)
 
