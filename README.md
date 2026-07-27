@@ -18,7 +18,7 @@ Estudante de Sistemas de Informação na **UNIFEF** e Técnico em Informática f
 ---
 
 ##  Contato / Contact
-- **Email:** syzcontato@gmail.com
+- **Email:** xavierdiego932@gmail.com
 - **LinkedIn:** [in/diegoxbs932](https://linkedin.com)
 
 ---
