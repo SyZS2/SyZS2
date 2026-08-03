@@ -24,7 +24,7 @@ Estudante de Sistemas de Informação na **UNIFEF** e Técnico em Informática f
 ---
 
 <details>
-<summary><b>English Version 🇺🇸</b></summary>
+<summary><b>English Version</b></summary>
 
 ### About Me
 My name is Diego Xavier, and I am a technology enthusiast focused on solving practical problems. Combining a solid technical background from my IT Technical Degree at ETEC with the strategic perspective of my Bachelor's degree in Information Systems at UNIFEF, I am building my career path in the tech industry.
